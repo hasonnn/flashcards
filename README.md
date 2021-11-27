@@ -1,3 +1,9 @@
+Developed with: React, Redux
+A flashcard-style quiz app that allow users to create their own topics,
+quizzes for those topics, and flashcards for those quizzes. Users can 
+interact with their quizzes by flipping flashcards over.
+
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
